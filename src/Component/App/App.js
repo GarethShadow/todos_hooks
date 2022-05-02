@@ -27,7 +27,7 @@ export default function App() {
             dispatch
         }}>
             <div className="container">
-                <h1>Todo app</h1>
+                <h1 style={{color: "red"}}>Todo app</h1>
                 <div className="container__input">
                     <label>Todo name: </label>
                     <input
